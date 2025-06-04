@@ -1,6 +1,8 @@
 ### Project Title
+Hotel Booking Analysis and Forecasting using ML / AI
 
 **Author**
+Yu-Shen (Ethan) Tsao
 
 #### Executive summary
 
